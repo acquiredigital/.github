@@ -1,2 +1,2 @@
-# .github
-GitHub workflows and other related files
+# WEb Team .github
+Web Team GitHub workflows and other related files
