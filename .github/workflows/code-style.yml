@@ -2,11 +2,7 @@ name: code-style
 run-name: ${{ github.actor }} has triggered Laravel Pint
 
 on:
-  pull_request:
-    types: [ 'opened', 'reopened', 'synchronize' ]
-  push:
-    branches:
-      - main
+  workflow_call:
 
 jobs:
   laravel-pint:
