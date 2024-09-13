@@ -1,7 +1,7 @@
-name: backend-tests
+name: wf-api-tests
 
 on:
-  pull_request:
+  workflow_call:
 
 jobs:
   tests:
