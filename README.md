@@ -1,2 +1,2 @@
 # Web Team .github
-Web Team GitHub workflows and other related files
+Web Team GitHub templates
