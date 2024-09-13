@@ -1,12 +1,14 @@
 ## Useful links
 
-*Please include any links to tickets, companion branches and pull requests*
+*Please include any links to tickets, companion branches, pull requests and preview environments if required*
 
 ***Ticket***:
 
 ***Branch***:
 
 ***Pull Request***:
+
+***Preview Environment***:
 
 ## Description
 
