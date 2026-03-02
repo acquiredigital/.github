@@ -38,3 +38,5 @@
 - [ ] I have commented my code where necessary
 - [ ] I have added any new API routes created to the relevant Insomnia Collection where appropriate
 - [ ] I have updated any associated product documentation where appropriate
+- [ ] Is there test coverage for the functionality you have changed or bug you have fixed? 
+- [ ] Do all the tests pass?
